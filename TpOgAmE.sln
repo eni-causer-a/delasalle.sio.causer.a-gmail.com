@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpOgAmE", "TpOgAmE\TpOgAmE.csproj", "{7E026964-F534-4D1E-B84B-7B2D2971F080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{3B9AC08D-6CF2-4445-B65D-0E9F3ED448FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E026964-F534-4D1E-B84B-7B2D2971F080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E026964-F534-4D1E-B84B-7B2D2971F080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E026964-F534-4D1E-B84B-7B2D2971F080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E026964-F534-4D1E-B84B-7B2D2971F080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9AC08D-6CF2-4445-B65D-0E9F3ED448FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9AC08D-6CF2-4445-B65D-0E9F3ED448FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9AC08D-6CF2-4445-B65D-0E9F3ED448FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9AC08D-6CF2-4445-B65D-0E9F3ED448FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E63FA08-B2A7-4905-967D-BB06DF3C2DA4}
+	EndGlobalSection
+EndGlobal
